@@ -1,1 +1,23 @@
 
+
+fun main () { 
+
+ println("OLá Mundo")
+      println("Meu Nome é Victor") 
+      println("Como Vai Seu Dia Hoje ?")
+      println("Esta Tudo Bom")
+      println("Você Torce Para Algum Time Brasileiro ?") 
+      println("Sim Sou Vascaino é Você Torce Para Qual Time ?")
+      println("HaHaHaHa Você Torce Para Vasco Credo") 
+      println("Sou Corinthiano Melhor Time Que Tem ")
+      println(" Vai Coringa")
+      println(" Tu Vai Para Escola Amanha ?") 
+      println(" Vou Não Man")
+      println(" Por Que ?") 
+      println(" To Meio Doente Gripado") 
+      println(" Suave Então Man.")
+      println(" Suave Victor") 
+      
+    
+}
+
