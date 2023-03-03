@@ -21,3 +21,110 @@ fun main () {
     
 }
 
+
+
+
+
+
+fun main() {
+    println("Hello, world!!!")
+    
+    
+      // Operadores Relacionais
+      //
+      // São sinais que auxiliam em comparações entre valores
+      //
+      // = -> = para definir valores 
+      // == -> comparação de igualdade
+      // != -> diferença
+      // > -> maior que.....
+      // < -> menor que.....
+      // 
+      // operadores matematicos
+      // + -=> adição 
+      // - --> subtração 
+      // * --> multiplicacão 
+      // / --> divisão 
+      // % --> módulo - o resto de uma divisão
+      // ++ --> adiciona 1 a um valor
+      // -- --> subtrai 1 de um valor
+      
+      //  Condições 
+      //  if...else -> se...senão 
+      //  
+      //  Estrutura do if...else simples
+      //  
+      //  if(condição){
+      //  ação a ser executada 
+      //  
+      //  
+      var classificado =  "Gold State Warriors"
+    
+      if (classificado == "Gold State Warriors"){
+          println("Gold State warriors classificado para a final,NBA!!")
+      }else{
+          println("Lakes Classificado para a final, infeslimente")
+      }
+      //if...else composto
+      //
+      // estrtura:
+      // if(condição){
+      // ação
+      // }else if (condição){
+      // ação
+      // }else if (condição)
+      //ação
+      //}else{
+      //ação
+      // }
+      // 
+      var vidas = 5  
+    
+      if(vidas >= 5){
+         println("Voce está excelente!! que vida boa!")
+      }else if(vidas == 4){
+          println("voce ta muito bem!! pode comer miojo :)")
+      }else if(vidas == 3){ 
+          println(" voce ta ok, mas pode melhorar") 
+      }else if(vidas == 2){
+          println("ta tudo  bem ai??")
+      }else if(vidas == 1){
+          println("ce ta morrendo!! se cuida cara")
+      }else{
+          println("Voce não existe")
+      }
+     
+    
+      // Exercicios 1 - faça um programa  que verifique  dois numeros e indique 
+      // no console o maior entre eles
+      
+      // Exercicios 2 -  faça um programa que indique no console se um número 
+      // verificado é positivo ou negativo
+      
+      // .Nos exercicios devem ser utilizados pelo menos 1 variavel 
+      // .os exercicios devem sert feitos com if...else
+      // .divirtam-se :)
+      
+  
+      var chocolate = 3
+      var sorvete =  8
+      
+    if (chocolate > sorvete){
+        println("o numero $sorvete e maior que $chocolate")
+    }else{
+        println("o numero $chocolate e maior que $sorvete")
+    }                  
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
